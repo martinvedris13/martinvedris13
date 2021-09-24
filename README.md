@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Martin Vedriš** and I'm future web developer with a lot of interests.
+My name is **Martin Vedriš** and I'm future web developer with a lot of interests.\
 Some of them are:
  - Web development
  - Software development/SaaS
